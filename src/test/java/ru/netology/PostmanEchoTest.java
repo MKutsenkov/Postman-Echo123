@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.equalTo;
 public class PostmanEchoTest {
 
     @Test
-    void shoudldReturnTest1() {
+    void shoudldReturnTest() {
         // Given - When - Then
 // Предусловия
         given()

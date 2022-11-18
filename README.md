@@ -1,8 +1,4 @@
-https://ci.appveyor.com/api/projects/status/a093idw0l2a5va7f?svg=true
 
-
-
-https://ci.appveyor.com/api/projects/status/a093idw0l2a5va7f
 
 
 
@@ -10,11 +6,6 @@ https://ci.appveyor.com/api/projects/status/a093idw0l2a5va7f
 
 
 
-https://ci.appveyor.com/api/projects/status/a093idw0l2a5va7f/branch/main?svg=true
-
-
-
-https://ci.appveyor.com/api/projects/status/a093idw0l2a5va7f/branch/main
 
 
 
